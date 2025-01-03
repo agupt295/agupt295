@@ -3,7 +3,6 @@
  <!--
 **agupt295/agupt295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on crafting seamless UX and building robust backend systems.
 - 🌱 I’m currently learning Cybersecurity & AI/ML projects.
